@@ -47,7 +47,7 @@ fun testMethod(a: String?, b: String?) {
 
 ```
 
-엄청 간결하다.
+엄청 간결하다. ~~롤에서 말하는 나는 뒤가 없는 챔프~~
 
 이외에도 ?. <- 요런것도 제공한다. 
 Null sfae Operator라고 하는데 코드를 엄청 간결하게 만들 수 있다.
